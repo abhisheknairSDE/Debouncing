@@ -3,7 +3,7 @@
 ## Overview
 A simple demonstration of debouncing in JavaScript.
 
-![Demo](./Screenshots/ss1.png)
+![Demo](./Screenshot/ss1.png)
 
 ### How It Works
 
